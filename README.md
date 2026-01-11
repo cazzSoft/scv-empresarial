@@ -6,7 +6,7 @@
 | Rol          | Nombre             | GitHub            | Email                |
 |--------------|--------------------|-------------------|----------------------|
 | Owner        | Cristhian Zambrano | @cazzSoft         | cazzdj17@hotmail.com |
-| Collaborator | Jose Sabando       | @joseleonardo1995 | email2@ejemplo.com   |
+| Collaborator | Jose Sabando       | @joseleonardo1995 | leonardosabando03@hotmail.com |
 
 ## Descripción
 Repositorio profesional que demuestra el dominio de
