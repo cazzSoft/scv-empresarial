@@ -1,0 +1,10 @@
+# CODEOWNERS - scv-empresarial
+# Propietarios globales (ambos miembros del equipo)
+* @cazzSoft @joseleonardo1995
+# Propietarios por área de responsabilidad
+/src/ @cazzSoft
+/docs/ @joseleonardo1995
+/tests/ @cazzSoft @joseleonardo1995
+# Archivos críticos requieren ambos reviewers
+CONTRIBUTING.md @cazzSoft @joseleonardo1995
+README.md @cazzSoft @joseleonardo1995
