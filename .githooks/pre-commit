@@ -13,7 +13,7 @@ FOUND=$(git diff --cached --name-only | xargs grep -l -E "(TODO|FIXME)" 2>/dev/n
 
 if [ -n "$FOUND" ]; then
     echo ""
-    echo "❌ ERROR: Se encontraron TODO o FIXME en el código"
+    echo "❌ ERROR: Se encontraron TODO o FIXME en el código del proyecto"
     echo ""
     echo "Archivos afectados:"
     echo "$FOUND" | while read file; do
